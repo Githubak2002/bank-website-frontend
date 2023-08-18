@@ -1,12 +1,11 @@
-# React + Vite
+# live - https://ui-to-bank-website.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>Bank Ui to website design</h3>
+ 
+Used React js and Taildwind Css to convert an Ui to website.
+Thanks Adrian Hajdin.. for making such an amazing tutorial on React and tailwind css.
 
-Currently, two official plugins are available:
+<img width="1103" alt="ui to bank website" src="https://github.com/Githubak2002/bank-website-frontend/assets/109411443/e112b894-9153-45db-b405-2662e4298474">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<!-- Wrote by me - AK 
-        -> import React { usestate } from 'react';
--->
+
